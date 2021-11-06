@@ -14,7 +14,7 @@ E-Commerce Redux is an e-commerce web application refactored from React's built-
 
 
 ## Usage:
-
+After navigating to the website, users can view various items listed under a variety of categories. Users can filter the items by category to decide what types of items they want to be shown. Users can add any number of different items to their cart and then, if logged in, are able to checkout with their selected items. Logged in users can also view their previous orders. Users can log in or register new accounts via the navbar at the top of the page.
 
 
 ## Technologies:
