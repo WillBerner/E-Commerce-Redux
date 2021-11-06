@@ -34,6 +34,7 @@ After navigating to the website, users can view various items listed under a var
 - Reaxt Redux
 
 ## Example gif:
+![Example](https://user-images.githubusercontent.com/25047954/140616258-2b0a6f7b-185f-40dc-96b2-f2bac4888307.gif)
 
 
 ## Questions:
